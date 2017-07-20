@@ -1,0 +1,16 @@
+[debug] [2017-07-20T15:29:49.324Z] ----------------------------------------------------------------------
+[debug] [2017-07-20T15:29:49.339Z] Command:      C:\Program Files\nodejs\node.exe C:\Users\casey.cook\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase use --add
+[debug] [2017-07-20T15:29:49.339Z] CLI Version:  3.9.1
+[debug] [2017-07-20T15:29:49.339Z] Platform:     win32
+[debug] [2017-07-20T15:29:49.339Z] Node Version: v6.11.1
+[debug] [2017-07-20T15:29:49.339Z] Time:         Thu Jul 20 2017 11:29:49 GMT-0400 (Eastern Daylight Time)
+[debug] [2017-07-20T15:29:49.339Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-07-20T15:29:49.339Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] [2017-07-20T15:29:49.339Z] > authorizing via signed-in user
+[debug] [2017-07-20T15:29:49.355Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects  
+ Thu Jul 20 2017 11:29:49 GMT-0400 (Eastern Daylight Time)
+[debug] [2017-07-20T15:29:50.021Z] <<< HTTP RESPONSE 200
+[debug] [2017-07-20T15:30:02.439Z] TypeError: Cannot read property 'short' of undefined
+[error] 
+[error] Error: An unexpected error has occurred.
