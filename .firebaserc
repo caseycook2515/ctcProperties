@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "ctc-properties-6aebe"
+    "default": "ctc-properties-6aebe",
+    "master": "ctc-properties-6aebe"
   }
 }
